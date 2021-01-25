@@ -34,7 +34,7 @@ All these dependencies are python dependencies.
 <br>
 To make the script work on your pc
 <br>
-Enter in the terminal 
+Enter in the terminal (Don't worry if the commands give an error it means that the dependency already exists)
 <br>
 <br>
 ```bash
