@@ -1,3 +1,4 @@
+
 # zoomautomation
 <br>
 ##zoom automation for online classes
@@ -34,6 +35,7 @@ Enter in the terminal
 ```bash
 git clone https://github.com/masterchief164/zoomautomation.git
 ```
+
 ```bash
 apt install python3
 ```
@@ -56,7 +58,7 @@ pip3 install os
 <br>
 <br>
 To run the script just enter the command following commands in the terminal in the zoomautomation directory(folder)
-<br>
+
 ```bash
 chmod +x zoomauto.sh  \\(you only need to enter this command once)
 ```
