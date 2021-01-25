@@ -2,7 +2,10 @@ import webbrowser
 import subprocess
 import schedule
 import time
+import os
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+dir_path=dir_path+"/zoomauto.sh"
 k = False
 
 
@@ -72,4 +75,5 @@ while not k:
     k = False
     schedule.run_pending()
     time.sleep(1)
-    subprocess.call("zoomauto.sh")
+
+subprocess.call(dir_path)

@@ -1,7 +1,9 @@
 #! /bin/bash
 
 pkill zoom &
-python3 spam.py &
+b='/linu.py'
+k="${PWD}${b}"
+python3 $k &
 zoom-client &
 
 echo "exit"
