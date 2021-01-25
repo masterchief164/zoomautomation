@@ -1,5 +1,7 @@
 
-# zoomautomation
+# zoom automation
+
+
 <br>
 ##zoom automation for online classes
 <br>
@@ -7,6 +9,9 @@
 <br>
 
 you will need python3 and zoom client on your pc
+<br>
+<br>
+<b>Note: You must sign into zoom on both the client application and the browser </b>
 <br>
 <br>
 <br>
