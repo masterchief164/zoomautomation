@@ -1,4 +1,5 @@
 import webbrowser
+import subprocess
 import schedule
 import time
 
@@ -71,3 +72,4 @@ while not k:
     k = False
     schedule.run_pending()
     time.sleep(1)
+    subprocess.call("zoomauto.sh")
