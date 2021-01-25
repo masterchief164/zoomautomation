@@ -5,15 +5,7 @@ zoom automation for online classes
 a python script to automate class attendance
 <br>
 
-
-Enter in the terminal 
-
-git clone https://github.com/masterchief164/zoomautomation.git
-<br>
-apt install python3
-<br>
-
-you will need python3 on your pc
+you will need python3 and zoom client on your pc
 <br>
 <br>
 <br>
@@ -34,7 +26,16 @@ install dependencies
 <br>
 All these dependencies are python dependencies.
 <br>
-To install a particular dependency use the following commands
+To make the script work on your pc
+<br>
+Enter in the terminal 
+<br>
+<br>
+<br>
+git clone https://github.com/masterchief164/zoomautomation.git
+<br>
+apt install python3
+<br>
 <br>
 pip3 install webbrowser
 <br>
@@ -45,5 +46,11 @@ pip3 install schedule
 pip3 install time
 <br>
 pip3 install os
-
-
+<br>
+<br>
+<br>
+To run the script just enter the command following commands in the terminal in the zoomautomation directory(folder)
+<br>
+chmod +x zoomauto.sh  (you only need to enter this command once)
+<br>
+./zoomauto.sh
