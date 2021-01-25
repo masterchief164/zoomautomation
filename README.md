@@ -38,7 +38,6 @@ git clone https://github.com/masterchief164/zoomautomation.git
 apt install python3
 ```
 <br>
-<br>
 ```
 pip3 install webbrowser
 ```
