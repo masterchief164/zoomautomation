@@ -34,17 +34,12 @@ Enter in the terminal
 <br>
 git clone https://github.com/masterchief164/zoomautomation.git
 <br>
-```
-apt install python3
-```
+
+`apt install python3`
 <br>
-```
-pip3 install webbrowser
-```
+`pip3 install webbrowser`
 <br>
-```
-pip3 install subprocess
-```
+`pip3 install subprocess`
 <br>
 ```
 pip3 install schedule
