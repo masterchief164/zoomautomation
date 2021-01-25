@@ -31,22 +31,24 @@ To make the script work on your pc
 Enter in the terminal 
 <br>
 <br>
-<br>
+```
 git clone https://github.com/masterchief164/zoomautomation.git
-<br>
+```
 ```
 apt install python3
+```
+```
 pip3 install webbrowser
+```
+```
 pip3 install subprocess
 ```
 ```
 pip3 install schedule
 ```
-<br>
 ```
 pip3 install time
 ```
-<br>
 ```
 pip3 install os
 ```
@@ -58,7 +60,6 @@ To run the script just enter the command following commands in the terminal in t
 ```
 chmod +x zoomauto.sh  \\(you only need to enter this command once)
 ```
-<br>
 ```
 ./zoomauto.sh
 ```
