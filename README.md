@@ -59,7 +59,5 @@ To run the script just enter the command following commands in the terminal in t
 <br>
 ```
 chmod +x zoomauto.sh  \\(you only need to enter this command once)
-```
-```
 ./zoomauto.sh
 ```
