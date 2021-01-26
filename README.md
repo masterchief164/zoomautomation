@@ -7,11 +7,10 @@
 <br>
 ##a python script to automate class attendance
 <br>
-
-you will need python3 and zoom client on your pc
+you will need python3 and zoom client on your machine
 <br>
 <br>
-<b>Note: You must sign into zoom on both the client application and the browser </b>
+<b>Note: You must sign in to zoom on both the client application and the browser </b>
 <br>
 <br>
 <br>
@@ -32,7 +31,7 @@ you will need python3 and zoom client on your pc
 <br>
 All these dependencies are python dependencies.
 <br>
-To make the script work on your pc
+To make the script work on your Ubuntu
 <br>
 Enter in the terminal (Don't worry if the commands give an error it means that the dependency already exists)
 <br>
@@ -65,7 +64,7 @@ pip3 install os
 To run the script just enter the command following commands in the terminal in the zoomautomation directory(folder)
 
 ```bash
-chmod +x zoomauto.sh  (you only need to enter this command once)
+chmod +x zoomauto.sh  \\(you only need to enter this command once)
 ```
 ```bash
 ./zoomauto.sh
