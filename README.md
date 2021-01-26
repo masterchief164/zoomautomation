@@ -17,7 +17,7 @@ you will need python3 and zoom client on your pc
 <br>
 
 
-**install dependencies **
+**install dependencies **   
 <br>
 1.webbrowser
 <br>
@@ -65,7 +65,7 @@ pip3 install os
 To run the script just enter the command following commands in the terminal in the zoomautomation directory(folder)
 
 ```bash
-chmod +x zoomauto.sh  \\(you only need to enter this command once)
+chmod +x zoomauto.sh  (you only need to enter this command once)
 ```
 ```bash
 ./zoomauto.sh
