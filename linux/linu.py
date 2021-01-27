@@ -39,7 +39,7 @@ def eng():
     k = True
 
 
-def IT():
+def it():
     global k
     webbrowser.open("https://zoom.us/j/92311038253?pwd=SFgrdHEzZC8rTERBK0pjSFdhZ3JNdz09")
     time.sleep(3600)
@@ -60,7 +60,7 @@ schedule.every().wednesday.at("10:10").do(phy)
 print("added phy wednesday")
 schedule.every().wednesday.at("11:10").do(mat)
 print("added math wednesday")
-schedule.every().wednesday.at("14:10").do(IT)
+schedule.every().wednesday.at("14:10").do(it)
 print("added IT wednesday")
 schedule.every().thursday.at("09:10").do(mat)
 print("added math thursday")
@@ -68,7 +68,7 @@ schedule.every().thursday.at("11:10").do(phy)
 print("added phy thursday")
 schedule.every().friday.at("09:10").do(eng)
 print("added eng friday")
-schedule.every().friday.at("10:10").do(IT)
+schedule.every().friday.at("10:10").do(it)
 print("added IT friday")
 
 while not k:
